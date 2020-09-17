@@ -4,7 +4,7 @@ Cryptocurrency market cap rankings. This is a [Next.js](https://nextjs.org/) pro
 
 ## Demo
 
-Application URL: [Click Here](https://still-ocean-33049.herokuapp.com/])<br/>
+Application URL: https://still-ocean-33049.herokuapp.com
 
 ## Things I learnt/used #BUIDLing this application
 
